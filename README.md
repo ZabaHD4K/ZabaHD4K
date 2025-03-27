@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alejandro Zabaleta</h1>
 <h3 align="center">A passionate frontend developer from Spain. Great interest in aviation and defense.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zabalex&label=Profile%20views&color=fe2701&style=flat" alt="zabalex" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZabaHD4K&label=Profile%20views&color=fe2701&style=flat" alt="ZabaHD4K" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zabalex" alt="zabalex" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZabaHD4K" alt="ZabaHD4K" /></a> </p>
 
 - 🔭 I’m currently working on **C++ proyect for DCS(Digital Combat Simulation)**
 
