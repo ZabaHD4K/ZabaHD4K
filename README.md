@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **C++ proyect for DCS(Digital Combat Simulation)**
 
-- 🌱 I’m currently Stuying **3th year fo Software Engineering**
+- 🌱 I’m currently Stuying **4th year fo Software Engineering**
 
 - 🤝 I’m looking for help with **Find my first internship.**
 
