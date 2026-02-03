@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently Stuying **4th year fo Software Engineering**
 
-- 🤝 I’m looking for help with **Find my first internship.**
+
 
 - 📫 How to reach me **alejandro2003zabaleta@gmail.com**
 
