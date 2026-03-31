@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ZabaHD4K&label=Profile%20views&color=fe2701&style=flat" alt="ZabaHD4K" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZabaHD4K" alt="ZabaHD4K" /></a> </p>
-
 
 - 🌱 I’m currently Stuying **4th year fo Software Engineering**
 
