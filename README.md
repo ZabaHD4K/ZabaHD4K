@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZabaHD4K" alt="ZabaHD4K" /></a> </p>
 
-- 🔭 I’m currently working on **C++ proyect for DCS(Digital Combat Simulation)**
 
 - 🌱 I’m currently Stuying **4th year fo Software Engineering**
 
@@ -13,7 +12,7 @@
 
 - 📫 How to reach me **alejandro2003zabaleta@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xH2SzIBiJ6N6_foVQP4dgtfGOyDyNNiV/view?usp=sharing](https://drive.google.com/file/d/1xH2SzIBiJ6N6_foVQP4dgtfGOyDyNNiV/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1nMYSaSw1y4KKsUE5ANYYjmdALR98Dbu2/view?usp=drive_link](https://drive.google.com/file/d/1nMYSaSw1y4KKsUE5ANYYjmdALR98Dbu2/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
