@@ -16,9 +16,11 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=androidstudio,bash,bootstrap,c,cpp,css,docker,express,figma,firebase,html,java,js,kotlin&perline=14" />
+<img src="https://skillicons.dev/icons?i=androidstudio,azure,bash,bootstrap,c,cpp,css,docker,dotnet,express,figma,firebase,git,github,githubactions&perline=15" />
 <br/>
-<img src="https://skillicons.dev/icons?i=linux,mongodb,mysql,nextjs,nodejs,php,postgresql,postman,python,react,sqlite,typescript&perline=14" />
+<img src="https://skillicons.dev/icons?i=html,java,js,kotlin,linux,mongodb,mysql,nextjs,nodejs,php,postgresql,postman,powershell,python,react&perline=15" />
+<br/>
+<img src="https://skillicons.dev/icons?i=redis,sqlite,tailwind,typescript,vscode&perline=15" />
 </p>
 
 <p align="center">
