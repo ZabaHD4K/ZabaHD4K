@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alejandro Zabaleta</h1>
-<h3 align="center">Software Engineering Student | I love building projects and taking on new challenges | Aviation &amp; Defense</h3>
+<h3 align="center">Software Engineer | I love building projects and taking on new challenges | Aviation &amp; Defense</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ZabaHD4K&label=Profile%20views&color=fe2701&style=flat" alt="ZabaHD4K" /> </p>
 
-- 🌱 I'm currently Studying **4th year of Software Engineering**
+- 🎓 **Software Engineer** — B.Sc. in Software Engineering
 
 - 📫 How to reach me **alejandro2003zabaleta@gmail.com**
 
