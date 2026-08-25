@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alejandro Zabaleta</h1>
-<h3 align="center">Software Engineer | Warehouse Automation @ KNAPP · KiSoft SRC | AI · C++/CUDA · Simulation</h3>
+<h3 align="center">Software Engineer | Logistics · Warehouse Automation &amp; Robotics @ KNAPP | AI · C++/CUDA · Simulation</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ZabaHD4K&label=Profile%20views&color=fe2701&style=flat" alt="ZabaHD4K" /> </p>
 
 - 🎓 **Software Engineer** — B.Sc. in Software Engineering (U-tad)
 
-- 🏭 Currently a **Software Commissioning Engineer @ KNAPP**, commissioning **KiSoft SRC** warehouse-control software for OSR&nbsp;Shuttle™ automated storage systems
+- 🏭 Currently a **Software Commissioning Engineer @ KNAPP**, a global leader in **intralogistics and warehouse automation**
+
+- 🤖 I commission **KiSoft SRC** — the logistics control software that runs KNAPP's automated warehouses and **robotic systems** (OSR&nbsp;Shuttle™ storage-and-retrieval, Pick-it-Easy workstations) — testing material flow end-to-end and driving installations to go-live
 
 - 🌱 Open-source contributor to **NASA OpenMCT** and **Microsoft BitNet**
 
